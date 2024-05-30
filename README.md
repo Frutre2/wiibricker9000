@@ -1,4 +1,4 @@
-# Wii Bricker 900
+# Wii Bricker 9000
 Only for educational purposes!
 
 MIT License
