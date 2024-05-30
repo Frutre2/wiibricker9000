@@ -23,3 +23,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 Only for educational purposes!
+(comes with Dakotath's Sound Player 9000)
